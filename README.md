@@ -68,7 +68,7 @@ Oh _damn_, now we're talking. What else did we get on here?
 
 Some fun edge chamfers are back in the top case, the bumper recesses are back on the bottom, it's all filleted awkwardly, the expansion door has a cutout to make it easier to get in and out, the buttons are set back a little more from the hole so they fit in easier assuming your printer overextrudes slightly in some places and your dimensional tolerances are shit... okay, maybe it's just me, but this is starting to look like _A Thing(TM)_. 
 
-![A 3D printed Soggy-1000 case, front view](images/Soggy%20Case%20Print%20front.png)
+![A 3D printed Soggy-1000 case, front view](images/Soggy%20Case%20Print%20Front.png)
 
 Shit, yeah, this is a real thing now. This isn't even the final revision and it works.
 
