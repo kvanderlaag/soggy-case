@@ -4,15 +4,15 @@
 
 It seems like the absolute _worst_ thing you can do (for my general productivity) is hand me a board for something. First, unless it's a positively massive number of components, it's almost certain that I'm going to _build_ the thing. This is exactly what happened when I was handed a Soggy-1000 v0.4, albeit with a couple of parts that didn't work out of the gate and a couple things I broke during the build, benevolently resolved for me by the Soggy's designer. (Thanks!)
 
-![The assembled Soggy-1000 board, with a cartridge for Champion Boxing](images/Soggy Board.png)
+![The assembled Soggy-1000 board, with a cartridge for Champion Boxing](images/Soggy%20Board.png)
 
 So, with the board assembled, we hook up USB for power, RCA audio and video, and the SJ-150 from my Mark III, and turn it on. Let's see what happens!
 
-![Bank Panic running from the onboard ROM](images/Bank Panic.png)
+![Bank Panic running from the onboard ROM](images/Bank%20Panic.png)
 
 It works! Here's Bank Panic, running from the onboard 27C256 ROM, as a test. Then, we drop in the cartridge.
 
-![Champion Boxing running from the cartridge](images/Champion Boxing.png)
+![Champion Boxing running from the cartridge](images/Champion%20Boxing.png)
 
 Yep, cartridge works fine, too. Great, I now have...a working SG-1000 clone. I don't have a particular interest in the SG-1000, but it's a fun novelty, at least. This, unfortunately, is where the madness in my brain begins to start seeping into things, because I look down at this thing, and all I can see is a bare PCB with stuff plugged into it, and something rooted deep in my psyche cannot tolerate that. The board was offered to me with little rubber feet on it, so that it wouldn't slide around, and I think that offer was the last straw.
 
@@ -22,13 +22,13 @@ It needs a case. Without a case, it's just a circuit board. You're always going 
 
 Fortunately for me, I have two things to combat this: (heavily medicated) mania, and (medicated but still prevalent) ADHD. Smash cut to twelve hours later.
 
-![A CAD model of an enclosure for the Soggy-1000, front view](images/Soggy Case rev0.png)
+![A CAD model of an enclosure for the Soggy-1000, front view](images/Soggy%20Case%20rev0.png)
 
 Wow, that sure was a thing that happened...I don't want to say _quickly_, but I certainly didn't notice the time passing. Let's take a closer look.
 
-![A CAD model of an enclosure for the Soggy-1000, rear view](images/Soggy Case rev0 rear.png)
-![A CAD model of an enclosure for the Soggy-1000, bottom view](images/Soggy Case rev0 bottom.png)
-![A CAD model of an enclosure for the Soggy-1000, exploded view](images/Soggy Case rev0 exploded.png)
+![A CAD model of an enclosure for the Soggy-1000, rear view](images/Soggy%20Case%20rev0%20rear.png)
+![A CAD model of an enclosure for the Soggy-1000, bottom view](images/Soggy%20Case%20rev0%20bottom.png)
+![A CAD model of an enclosure for the Soggy-1000, exploded view](images/Soggy%20Case%20rev0%20exploded.png)
 
 Vents and grilles and curves everywhere, whole buttons and LED light pipes, and a little pop-out door for the expansion edge connector. This was...a lot. Taking a second to talk about _actually building_ the damn thing, for some background, what I have at my disposal is basically a big hot glue robot that squeezes molten plastic together. (Obviously I'm talking about a 3D printer.) Anyone who knows anything about 3D printing will look at this and go "uhhh, okay, what's your plan here?) The bottom case and expansion door are probably fine, but that top case is absolutely not going to print well without a ton of support, even if you stick it on its back. (Note: you _should_ print it on its back so you get a nice surface finish on the top.)
 
@@ -38,10 +38,10 @@ So, while this was a loving creation of wild, manic creativity, I knew it was ne
 
 The best thing to do is probably to create something _similar_, but with a lot more...flat surfaces. Something nice and big and flat that'll stick to the bed easily, without a lot of overhanging angles.
 
-![A CAD model of a revised, easier to print enclosure for the Soggy-1000, front view](images/Soggy Case rev1.png)
-![A CAD model of a revised, easier to print enclosure for the Soggy-1000, rear view](images/Soggy Case rev1 rear.png)
-![A CAD model of a revised, easier to print enclosure for the Soggy-1000, bottom view](images/Soggy Case rev1 bottom.png)
-![A CAD model of a revised, easier to print enclosure for the Soggy-1000, exploded view](images/Soggy Case rev1 exploded.png)
+![A CAD model of a revised, easier to print enclosure for the Soggy-1000, front view](images/Soggy%20Case%20rev1.png)
+![A CAD model of a revised, easier to print enclosure for the Soggy-1000, rear view](images/Soggy%20Case%20rev1%20rear.png)
+![A CAD model of a revised, easier to print enclosure for the Soggy-1000, bottom view](images/Soggy%20Case%20rev1%20bottom.png)
+![A CAD model of a revised, easier to print enclosure for the Soggy-1000, exploded view](images/Soggy%20Case%20rev1%20exploded.png)
 
 Okay, well this is...certainly more straightforward. All the same features are there: cutouts for all the ports, buttons, vents and grilles. We've lost the curve on the top case, and the indents in the bottom for rubber feet, but this should certainly be printable. It was at about this time that two things happened:
 
@@ -58,23 +58,23 @@ Okay, fine, we kick the front edge out about 3mm. Even like that, the controller
 
 So, now we have a case that works, but it's kind of...boring. I miss the definition on the edges, and the slightly asymmetric shape front to back. Well, most 3D printers will let you get away with an overhang up to about 45 degrees without gnarly supports before they start falling apart, and mine's pretty good, so let's see what kind of edge features we can add here...
 
-![The second revision of the Soggy-1000 enclosure, front view](images/Soggy Case rev2.png)
+![The second revision of the Soggy-1000 enclosure, front view](images/Soggy%20Case%20rev2.png)
 
 Oh _damn_, now we're talking. What else did we get on here?
 
-![The second revision of the Soggy-1000 enclosure, rear view](images/Soggy Case rev2 rear.png)
-![The second revision of the Soggy-1000 enclosure, bottom view](images/Soggy Case rev2 bottom.png)
-![The second revision of the Soggy-1000 enclosure, exploded view](images/Soggy Case rev2 exploded.png)
+![The second revision of the Soggy-1000 enclosure, rear view](images/Soggy%20Case%20rev2%20rear.png)
+![The second revision of the Soggy-1000 enclosure, bottom view](images/Soggy%20Case%20rev2%20bottom.png)
+![The second revision of the Soggy-1000 enclosure, exploded view](images/Soggy%20Case%20rev2%20exploded.png)
 
 Some fun edge chamfers are back in the top case, the bumper recesses are back on the bottom, it's all filleted awkwardly, the expansion door has a cutout to make it easier to get in and out, the buttons are set back a little more from the hole so they fit in easier assuming your printer overextrudes slightly in some places and your dimensional tolerances are shit... okay, maybe it's just me, but this is starting to look like _A Thing(TM)_. 
 
-![A 3D printed Soggy-1000 case, front view](images/Soggy Case Print front.png)
+![A 3D printed Soggy-1000 case, front view](images/Soggy%20Case%20Print%20front.png)
 
 Shit, yeah, this is a real thing now. This isn't even the final revision and it works.
 
-![A 3D printed Soggy-1000 case, front ports](images/Soggy Case Print Ports.png)
-![A 3D printed Soggy-1000 case, rear view](images/Soggy Case Print Rear.png)
-![A 3D printed Soggy-1000 case, bottom view](images/Soggy Case Print Bottom.png)
+![A 3D printed Soggy-1000 case, front ports](images/Soggy%20Case%20Print%20Ports.png)
+![A 3D printed Soggy-1000 case, rear view](images/Soggy%20Case%20Print%20Rear.png)
+![A 3D printed Soggy-1000 case, bottom view](images/Soggy%20Case%20Print%20Bottom.png)
 
 Eventually I might reprint my top and bottom cases with the revised parts, but it's a long print and this is probably good enough for me, personally. I've done one revised print for the Soggy's designer, and it turned out great, but I'm not going to go into that here.
 
@@ -82,27 +82,27 @@ Eventually I might reprint my top and bottom cases with the revised parts, but i
 
 I just want to make you stare at some of this crap, because I spent way too much time on it.
 
-![A closeup of the mating lip between the top and bottom cases](images/Soggy Case rev2 mating lip.png)
+![A closeup of the mating lip between the top and bottom cases](images/Soggy%20Case%20rev2%20mating%20lip.png)
 
 First, look at this stupid offset lip between the top and bottom cases. This thing runs around the whole outside of both case halves, and it was a _pain in the ass_ to make, but it makes a huge difference in how they fit together and how the seam looks when you bolt them together. Speaking of bolts...
 
-![A closeup of a heatset insert bung in the top case](images/Soggy Case rev2 heatset holes.png)
+![A closeup of a heatset insert bung in the top case](images/Soggy%20Case%20rev2%20heatset%20holes.png)
 
 The entire thing is held together using M3 12mm button head cap screws, which thread into M3x4mm heatset inserts pressed into these holes. They have a very slight taper so the plastic has somewhere to melt to and the heatset drops in straight.
 
-![The insides of both case halves, illustrating support ribbing](images/Soggy Case rev2 ribbing.png)
+![The insides of both case halves, illustrating support ribbing](images/Soggy%20Case%20rev2%20ribbing.png)
 
 There's an annoying amount of ribbing on the insides of both cases, where I could fit it around the vents, in the interest of keeping the damn thing from warping during the print, and to provide some rigidity during use. The ribs have a long, shallow chamfer up to them to provide more surface area on each layer, since 3D print strength is largely determined by the area melted together between layers.
 
-![A closeup of the expansion door cutout in the top and bottom cases](images/Soggy Case rev2 expansion cutout.png)
+![A closeup of the expansion door cutout in the top and bottom cases](images/Soggy%20Case%20rev2%20expansion cutout.png)
 
 The expansion door pops out to reveal an area around the board edge expansion connector which is large enough that getting the slot connector on an expansion device on and off shouldn't be totally awful.
 
-![A closeup of the expansion port highlighting the small lips inside the case for retaining the door](images/Soggy Case rev2 expansion door slots.jpg)
+![A closeup of the expansion port highlighting the small lips inside the case for retaining the door](images/Soggy%20Case%20rev2%20expansion%20door%20slots.jpg)
 
 The whole cutout has recesses behind the exterior face of the case for the door's retaining tabs, and those cutouts in the case have a little lip to fit the tab into while you're popping the door in, which makes the whole process a significant amount easier.
 
-![A closeup of the expansion door, highlighting the recess in the exterior for ease of removal, and the tabs that allow the top case to retain it](images/Soggy Case rev2 expansion door.png)
+![A closeup of the expansion door, highlighting the recess in the exterior for ease of removal, and the tabs that allow the top case to retain it](images/Soggy%20Case%20rev2%20expansion%20door.png)
 
 The door itself has a recessed line in it that matches the mating seam in the top and bottom cases, as well as a recess where it meets the top case so you have something to stick a thumb in to pop it out. The two tabs that protrude from the visible surface match up with the slots cut in the top and bottom case halves to allow the case to retain it. The whole design works quite well, even in a 3D printed part.
 
