@@ -4,7 +4,7 @@
 
 It seems like the absolute _worst_ thing you can do (for my general productivity) is hand me a board for something. First, unless it's a positively massive number of components, it's almost certain that I'm going to _build_ the thing. This is exactly what happened when I was handed a Soggy-1000 v0.4, albeit with a couple of parts that didn't work out of the gate and a couple things I broke during the build, benevolently resolved for me by the Soggy's designer. (Thanks!)
 
-![The assembled Soggy-1000 board, with a cartridge for Champion Boxing](images/Soggy%20Board.png)
+![The assembled Soggy-1000 board, with a cartridge for Champion Boxing](images/Soggy%20board.png)
 
 So, with the board assembled, we hook up USB for power, RCA audio and video, and the SJ-150 from my Mark III, and turn it on. Let's see what happens!
 
