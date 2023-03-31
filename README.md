@@ -94,11 +94,11 @@ The entire thing is held together using M3 12mm button head cap screws, which th
 
 There's an annoying amount of ribbing on the insides of both cases, where I could fit it around the vents, in the interest of keeping the damn thing from warping during the print, and to provide some rigidity during use. The ribs have a long, shallow chamfer up to them to provide more surface area on each layer, since 3D print strength is largely determined by the area melted together between layers.
 
-![A closeup of the expansion door cutout in the top and bottom cases](images/Soggy%20Case%20rev2%20expansion cutout.png)
+![A closeup of the expansion door cutout in the top and bottom cases](images/Soggy%20Case%20rev2%20expansion%20cutout.png)
 
 The expansion door pops out to reveal an area around the board edge expansion connector which is large enough that getting the slot connector on an expansion device on and off shouldn't be totally awful.
 
-![A closeup of the expansion port highlighting the small lips inside the case for retaining the door](images/Soggy%20Case%20rev2%20expansion%20door%20slots.jpg)
+![A closeup of the expansion port highlighting the small lips inside the case for retaining the door](images/Soggy%20Case%20rev2%20expansion%20door%20slots.png)
 
 The whole cutout has recesses behind the exterior face of the case for the door's retaining tabs, and those cutouts in the case have a little lip to fit the tab into while you're popping the door in, which makes the whole process a significant amount easier.
 
